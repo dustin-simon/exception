@@ -28,7 +28,7 @@ class StackException extends ErrorCodeException
 
     public function getErrorCode(): string
     {
-        return 'DUSTIN_EXCEPTION_STACK_EXCEPTION';
+        return 'STACK_EXCEPTION';
     }
 
     public function getErrors(): array
