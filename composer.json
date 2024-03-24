@@ -1,7 +1,7 @@
 {
     "name": "dustin/exception",
     "type": "library",
-    "version": "1.1.0",
+    "version": "1.2.0",
     "description": "A small exception library to handle error codes in Symfony applications",
     "keywords": [
         "exception",
